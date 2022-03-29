@@ -8,7 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/felpthefelpo">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=felpthefelpo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+       <img align"right" alt="Felp-Fer" height="150" style="border-radius:50px;" hspace="20" src="https://user-images.githubusercontent.com/97197024/160641788-e2c6c0fc-4450-4227-a1e5-4aba1883c545.png">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=felpthefelpo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img align"right" alt="Felp-Fer" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/97197024/160641788-e2c6c0fc-4450-4227-a1e5-4aba1883c545.png">
 </div>
 
