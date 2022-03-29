@@ -1,6 +1,5 @@
 <h2>## ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
 
-- 🐱‍💻 <i> Working as backend assistant dev
 - 📚 Studying Java & Python
 - 🐱 I have two furry daughters 
 - 🎯 My main goal is to become a fullstack developer </i>
