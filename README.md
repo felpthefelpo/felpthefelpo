@@ -13,16 +13,16 @@
       <img align"right" alt="Felp-Fer" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/97197024/160641788-e2c6c0fc-4450-4227-a1e5-4aba1883c545.png">
 </div>
 
-<div style="display: inline_block"><br>
+
+<p align="center"><br>
   <img align="center" alt="felp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felp-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Felp-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Felp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>
+  
 
-  
-</div>
-  
   ##
   
  <div>
