@@ -1,6 +1,6 @@
 <h2>## ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
 
-- 📚 Studying Java & Python
+- 📚 Studying HTML, CSS, Javascript and Python atm :)
 - 🐱 I have two furry daughters 
 - 🎯 My main goal is to become a fullstack developer </i>
 
