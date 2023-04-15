@@ -2,7 +2,7 @@
 
 - 📚 Studying automation with python atm
 - 🐱 I have two furry daughters 
-- 🎯 My main goal is to become a fullstack developer </i>
+- 🎯 My main goal is to become better than i was (always) </i>
 
 
 <div align="center">
