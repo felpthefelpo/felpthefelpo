@@ -1,7 +1,7 @@
 <h2>## ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
 
 - 📚 Studying automation
-- 🐱 I have two furry daughters 
+- 🐶 father of three lovely dogs
 - 🎯 My main goal is to become better than i was (always) </i>
 
 
