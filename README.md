@@ -1,7 +1,6 @@
 <h2>## ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
 
-- 📚 studying Python
-- 🐱‍💻 framework: Django
+- 📚 studying backend and machine learning with Django and Python atm
 - 🎯 My main goal is to become better than i was (always) </i>
 
 
