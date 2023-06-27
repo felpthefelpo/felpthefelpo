@@ -1,15 +1,8 @@
-<h2>## ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
+<h2> ⛩ Hi! I'm Felipe and this is my profile! Welcome ⛩</h2>
 
-- 📚 studying backend and machine learning with Django and Python atm
+- 📚 studying backend/frontend with Django and Python
+- 🧠 I have knowledge in java, javascript, python, selenium, html and css
 - 🎯 My main goal is to become better than i was (always) </i>
-
-
-<div align="center">
-  <a href="https://github.com/felpthefelpo">
-       <img align"right" alt="Felp-Fer" height="150" style="border-radius:50px;" hspace="20" src="https://user-images.githubusercontent.com/97197024/160641788-e2c6c0fc-4450-4227-a1e5-4aba1883c545.png">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=felpthefelpo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img align"right" alt="Felp-Fer" height="150" style="border-radius:50px;"  src="https://user-images.githubusercontent.com/97197024/160641788-e2c6c0fc-4450-4227-a1e5-4aba1883c545.png">
-</div>
 
 
 <p align="center"><br>
